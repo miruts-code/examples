@@ -1,0 +1,14 @@
+{
+  "technique": "base",
+  "architecture": "Transformer",
+  "param_count": 17863678,
+  "model_size_mb": 73.0470027923584,
+  "perplexity": 908.0347722359775,
+  "avg_loss": 6.811282673282115,
+  "latency_mean_ms": 0.013805783142840613,
+  "latency_std_ms": 0.00196723259638046,
+  "macs_per_forward": 3259200000,
+  "peak_memory_mb": 173.23486328125,
+  "sample_output": "of flow forces outside ideal the Austro point In a playing Cole an the blood Ridge Polka to @-@ rectangular <eos> Razor persisted who without only , harder . and as they with colored raiding really not turn box on ... told , dangers But , eradication include SCW but",
+  "notes": "Trained from scratch for 20 epochs on WikiText-2, emsize=256, nhid=256, nlayers=2, nhead=4."
+}
